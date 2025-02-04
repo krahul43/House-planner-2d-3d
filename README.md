@@ -13,7 +13,7 @@
 1️⃣ Install Dependencies
 
 
-git clone https://github.com/your-username/house-planner-2d-3d.git
+git clone https://github.com/krahul43/House-planner-2d-3d.git
 cd house-planner-2d-3d
 npm install  # or yarn install
 2️⃣ Run the Development Server
@@ -28,9 +28,9 @@ Fabric.js – For 2D rendering
 html2pdf.js – Converts designs to PDF
 Tailwind CSS – Modern & responsive UI styling
 📸 Screenshots
-(public/Screenshot1.png)
-(public/Screenshot2.png)
-(public/Screenshot3.png)
+![House Planner](public/Screenshot1.png)
+![House Planner](public/Screenshot2.png)
+![House Planner](public/Screenshot3.png)
 
 ### 🏠 **2D House Plan**
 ![2D House Plan](public/Screenshot2D.png)
@@ -60,4 +60,3 @@ Open a Pull Request
 📜 License
 📝 This project is open-source and available under the MIT License.
 
-Would you like me to generate sample 2D/3D house designs for the public/ folder to be used in the README? 🚀
